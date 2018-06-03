@@ -3,7 +3,11 @@
 This image should work for there architectures:
  -amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
 
-Docker image files in [DockerHub](https://hub.docker.com/r/elswork/pwa-starter-kit/)
+## Details
+
+- [GitHub](https://github.com/DeftWork/pwa-starter-kit)
+- [Docker Hub](https://hub.docker.com/r/elswork/pwa-starter-kit/)
+- [Deft.Work my personal blog](https://deft.work)
 
 You can build your own images with the following command:
 
